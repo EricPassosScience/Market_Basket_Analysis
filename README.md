@@ -10,7 +10,7 @@ Se utilizan 3 métricas principales para analizar el resultado del algoritmo Apr
 Se puede acceder fácilmente al conjunto de datos desde el siguiente enlace:https://snap.stanford.edu/data/amazon-meta.html
 
 
-EM PORTUGUÊS DO BRASIL:
+PORTUGUÊS:
 A Análise de Cesta de Compras (Market Basket Analysis) é uma das principais técnicas usadas por grandes varejistas para descobrir associações entre itens. A técnica funciona procurando combinações de itens que ocorrem juntos com frequência nas transações. Em outras palavras, permite que os varejistas identifiquem as relações entre os itens que as pessoas compram.
 
 Nesse mini-projeto, utilizaremos o algoritmo Apriori com a Linguagem R, para descobrirmos as regras de associação.E, no final, apresentaremos somente as regras mais fortes em uma planilha excel.  
