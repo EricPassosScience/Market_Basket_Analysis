@@ -1,6 +1,6 @@
 # Market_Basket_Analysis_Linguagem R
 
-EN ESPAÑOL:
+ESPAÑOL:
 Market Basket Analysis es una de las principales técnicas utilizadas por los grandes minoristas para descubrir asociaciones entre artículos. La técnica funciona buscando combinaciones de artículos que ocurren juntos con frecuencia en las transacciones. En otras palabras, permite a los minoristas identificar las relaciones entre los artículos que compra la gente.
 
 En este mini-proyecto, usaremos el algoritmo Apriori con el lenguaje R para descubrir las reglas de asociación y, al final, presentaremos solo las reglas más fuertes en una hoja de cálculo de Excel.
